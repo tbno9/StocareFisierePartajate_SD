@@ -1,0 +1,5 @@
+target/
+out/
+logs/
+data/  # fisierele stocate de noduri nu le trimit pe github
+.idea/
